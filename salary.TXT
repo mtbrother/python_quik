@@ -1,0 +1,5 @@
+Alex - 5000
+Larry - 7000
+Sergey - 10000
+Oleg - 3000
+Mask - 6000000
