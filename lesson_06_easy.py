@@ -94,7 +94,6 @@ class PoliceCar():
 		"""Автомобиль поварачивает"""
 		print(self.name + ' повернула', direction)
 
-
 #car1 = TownCar('mazda', 'black', '60 km/h')
 #car1.turn('направо')
 #car2 = SportCar('porshe 911', 'red', '200 km/h')
